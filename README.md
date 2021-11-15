@@ -11,10 +11,9 @@
 
 
 
-#### 팀장, 총괄
 ##### [김진](https://github.com/rumcrush)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rumcrush&theme=monokai)
-#### 챗봇 알고리즘, BERT 모델링
+
 ##### [박민아](https://github.com/parkmina365)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parkmina365&theme=monokai)
 
