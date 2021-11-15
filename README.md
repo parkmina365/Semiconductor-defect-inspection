@@ -20,4 +20,4 @@
 
 #### 2021.11.15(월) Start
 
-# Defects-in-Semiconductors
+# Semiconductor defect inspection
