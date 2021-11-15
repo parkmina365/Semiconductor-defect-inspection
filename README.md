@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&text=반도체불량검출&animation=fadeIn&fontColor=B5B5B6)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&text=Defects-in-Semiconductors&animation=fadeIn&fontColor=B5B5B6)
 
 <h5 align='center'> Using Tech </h5>
 
