@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=YoLo&logoColor=white"/></a>&nbsp
-
 </p>
 
 
