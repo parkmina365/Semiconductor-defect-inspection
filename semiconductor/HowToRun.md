@@ -1,4 +1,4 @@
-1. semiconductor 폴더를 다운후 C드라이브에 압축풀기
+1. semiconductorzip, semiconductor.z01 파일 다운후 C드라이브에 압축풀기
 
 2. cmd 입력창에 명령어 입력
 
