@@ -42,10 +42,10 @@ Detectron2, YOLO R, mobileNetSSDv2, YOLOv5로 반도체 불량품 탐지에 가�
 
 ## 4. 파이썬 스크립트파일 구축 
 모델링 파이썬 스크립트 파일로 만들어 로컬 환경(windows, mac)에서도 구동 될 수 있도록 프로그램을 구축 했습니다.
-결과물은 semiconductor.zip 파일을 다운로드 받아주세요.
+결과물은 semiconductor 폴더를 다운로드 받아주세요.
 
 #### 사용 방법 
-1. semiconductor.zip 파일 다운후 C드라이브에 압축풀기
+1. semiconductor 폴더를 다운후 C드라이브에 압축풀기
 
 2. cmd 입력창에 명령어 입력
  	1) 경로 변경 : cd C://yolov5
