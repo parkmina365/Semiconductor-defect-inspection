@@ -63,8 +63,9 @@ Detectron2, YOLO R, mobileNetSSDv2, YOLOv5로 반도체 불량품 탐지에 가�
   2) 내컴퓨터 - 우클 속성 - 고급 시스템 설정 - 고급 - 환경변수로 이동 
   3) 시스템 변수에 Path 편집 
   4) 아래 두 줄 입력 후 재부팅 
+
       C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.4\bin
-      
+
       C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.4\libnvvp
   5) cmd 실행 
   6) pip install tensorflow 입력해서 tensorflow 설치    
