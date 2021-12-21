@@ -22,12 +22,11 @@
 
 # Semiconductor defect inspection
 
-#불량 반도체 탐지 결과
-<p align='center'>
-    <img scr="https://imgur.com/70NbjpA">
-</p>
+![image](https://user-images.githubusercontent.com/49267209/146880436-528157a8-7323-4eda-b86b-0e29a4384993.png)
 
-#설명 
+
+#프로젝트 설명 
+
 반도체 이미지를 활용하여 YOLOv5 딥러닝 이미지 객체탐지 모델을 활용하여 불량품 반도체를 탐지하는 프로그램입니다. 결함 예측률을 통하여 양품, 불량품 반도체를 탐지하고 결과이미지를 별도로 저장합니다.
 
 # 프로젝트 절차 
