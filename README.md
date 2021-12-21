@@ -60,7 +60,7 @@ Detectron2, YOLO R, mobileNetSSDv2, YOLOv5로 반도체 불량품 탐지에 가�
 1. anaconda 설치 후 anaconda prompt에서 사용방법 1-3까지 실행 
 2. CUDA 관련 오류
   1) https://developer.nvidia.com/cuda-toolkit-archive 에서 CUDA 최신 버전 다운로드 
-  2) 내컴퓨터 - 우클륵 속성 - 고급 시스템 설정 - 고급 - 환경변수로 이동 
+  2) 내컴퓨터 - 우클 속성 - 고급 시스템 설정 - 고급 - 환경변수로 이동 
   3) 시스템 변수에 Path 편집 
   4) 아래 두 줄 입력 후 재부팅 
       C:\Progran Files\NVIDIA GPU Computing Toolkit\CUDA\v11.4\bin
